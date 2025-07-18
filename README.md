@@ -1,12 +1,8 @@
-Aqui criei um programa que modela uma campeonato de futebol com controle de estatísticas da temporada. Considerei dados 
-armazenados em uma matriz e armazenados em uma ArrayList. Projetei classes com campos e métodos com
-base na descrição do campeonato. Foram utilizados os métodos getters e setters etc.
 
- ⚽ Campeonato de Futebol 
+⚽ Este projeto é uma simulação de uma pequeno campeonato de futebol, desenvolvido em Java como um exercício de Programação Orientada a Objetos (POO). 
+O programa gerencia equipes, jogos e estatísticas da temporada, que é influenciada pela temperatura informada pelo usuário.
 
-Este projeto é uma simulação de uma pequena liga de futebol, desenvolvido em Java como um exercício de Programação Orientada a Objetos (POO). O programa gerencia equipes, jogos e estatísticas da temporada, que é influenciada pela temperatura informada pelo usuário.
-
-Projeto Concluído ✔️
+Status ==> Projeto Concluído ✔️
 
 ---
 
@@ -21,7 +17,7 @@ O programa simula uma liga com quatro equipes. A cada semana, o usuário informa
 
 ✨ Funcionalidades
 
-- Gerenciamento de 4 Equipes:** Controle de vitórias, derrotas, empates, gols marcados e sofridos.
+- Gerenciamento de 4 Equipes: Controle de vitórias, derrotas, empates, gols marcados e sofridos.
 - Jogos Aleatórios: Os confrontos de cada semana são definidos aleatoriamente.
 - Placares Influenciados pelo Clima: Temperaturas mais altas aumentam o número máximo de gols possíveis em uma partida.
 - Fim de Temporada Automático: A temporada encerra após 3 semanas consecutivas de frio.
