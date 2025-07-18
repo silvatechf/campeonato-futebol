@@ -53,5 +53,10 @@ Você precisará ter o Java Development Kit (JDK) instalado em sua máquina.
 - Git & GitHub: Para controle de versão e hospedagem do código.
 
 📤 Exemplo de Saída=============>
+<img width="726" height="874" alt="Captura de Tela 2025-07-18 às 14 06 21" src="https://github.com/user-attachments/assets/458db80f-d3d4-428f-836a-943183bbcd6d" />
+
+
+
+
 
 Contato (email): fernandusilva84@gmail.com
